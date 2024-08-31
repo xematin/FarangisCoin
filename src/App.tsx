@@ -53,7 +53,7 @@ const App = () => {
             </div>
           </div>
           <div className="mt-12 text-5xl font-bold flex items-center">
-            <img src={notcoin} width={24} height={64} />
+            <img src={notcoin} width={58} height={64} />
             <span className="ml-2">{points.toLocaleString()}</span>
           </div>
           <div className="text-base mt-2 flex items-center">
