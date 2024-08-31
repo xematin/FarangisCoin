@@ -4,7 +4,7 @@ import Arrow from './icons/Arrow';
 import { bear, coin, highVoltage, notcoin, rocket, trophy } from './images';
 
 const App = () => {
-  const [points, setPoints] = useState(1383006025);
+  const [points, setPoints] = useState(1.383006025);
   const [energy, setEnergy] = useState(1);
   const [clicks, setClicks] = useState<{ id: number, x: number, y: number }[]>([]);
   const pointsToAdd = 1;
