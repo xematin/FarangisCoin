@@ -19,7 +19,7 @@ To get started with either the initial setup or the final version, follow these 
 
     ```bash
     git clone https://github.com/xematin/FarangisCoin.git
-    cd Notcoin-Telegram-Mini-App-Clone
+    cd FarangisCoin
     ```
 
 ### Initial Setup
