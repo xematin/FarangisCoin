@@ -18,7 +18,7 @@ To get started with either the initial setup or the final version, follow these 
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/nikandr-surkov/Notcoin-Telegram-Mini-App-Clone.git
+    git clone https://github.com/xematin/FarangisCoin.git
     cd Notcoin-Telegram-Mini-App-Clone
     ```
 
